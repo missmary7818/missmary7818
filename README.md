@@ -19,12 +19,13 @@
 
 ---
 
-**✨ Cute Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=missmary7818&show_icons=true&theme=pink&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missmary7818&layout=compact&theme=pink&hide_border=true" width="45%" />
-</div>
+**✨ What I'm Learning**
+* 📁 Writing my very first Python scripts
+* 🌷 Figuring out how Git and GitHub work
+* ☕ Building a cozy coding routine one day at a time
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds 🤍
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%92%96&fontSize=20&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=footer&text=Thanks%20for%20stopping%20by!%20%F0%9F%92%96&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
